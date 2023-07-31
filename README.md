@@ -9,7 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ```java
 public class Soraya {
     private String name = "Soraya Yasin Farag";
-    private String acknowledgements = "Engenheira de software";
+    private String acknowledgements = "Desenvolvedora de software";
     private String primarySkillset = "ALGUMAS HABILIDADES";
     private List<String> languages = Arrays.asList("Java");
 }
