@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Soraya!</h1>
 
 <p align="center">
-🌱 <strong>Desenvolvedora Trainee</strong> | 🎓 <strong>Técnico em Desenvolvimento de Sistemas pelo SENAI</strong> <br> | 🎓 <strong>Cursando Análise e Desenvolvimento de Sistemas no IFSC</strong>
+🌱 <strong>Desenvolvedora Júnior</strong> | 🎓 <strong>Técnico em Desenvolvimento de Sistemas pelo SENAI</strong> <br> | 🎓 <strong>Cursando Análise e Desenvolvimento de Sistemas no IFSC</strong>
 </p>
 
 ---
